@@ -1,0 +1,7 @@
+background-color=#131f1f
+text-color=#98c1a3
+border-color=#4ed2d2
+progress-color=over #273d3c
+
+[urgency=high]
+border-color=#4ed2d2
